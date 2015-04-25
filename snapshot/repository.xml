@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <?xml-stylesheet type='text/xsl' href='http://www.osgi.org/www/obr2html.xsl'?>
 
-<repository lastmodified='20150424180152.456' name='Amdatu snapshots'>
+<repository lastmodified='20150424180238.438' name='Amdatu snapshots'>
   <resource id='pnnl.goss.core.client-all/1.0.0' presentationname='pnnl.goss.core.client-all' symbolicname='pnnl.goss.core.client-all' uri='pnnl.goss.core.client-all/pnnl.goss.core.client-all-1.0.0.jar' version='1.0.0'>
     <size>
       4651687
